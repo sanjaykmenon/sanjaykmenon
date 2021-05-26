@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Data Science & Machine Learning
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Master's Degree in Systems Engineer
+- 🎓 &nbsp; Master's Degree in Systems Engineering
 - 💼 &nbsp; Python ethusiast
 - ✍️ &nbsp; Supply chain & e-commerce geek.
 - ☕ &nbsp; I belive, a perfect cup of coffee & a guitar can be the ultimate solution for any stress. 
