@@ -3,16 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data Science & Machine Learning
+- 🔭 &nbsp; Data Engineer @ Even
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Master's Degree in Systems Engineering
 - 💼 &nbsp; Python ethusiast
-- ✍️ &nbsp; Supply chain & e-commerce geek.
+- ✍️ &nbsp; Data geek.
 - ☕ &nbsp; I belive, a perfect cup of coffee & a guitar can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Flask | Heroku  
+- 💻 &nbsp; Python | SQL | Spark | AWS | Redshift | RDS | S3  | Terraform | Databricks  
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio code | Git
