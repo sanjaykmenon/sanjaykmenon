@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Master's Degree in Systems Engineering
 - 💼 &nbsp; Python ethusiast
 - ✍️ &nbsp; Data geek.
-- ☕ &nbsp; I belive, a perfect cup of coffee & a guitar can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee & a guitar can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
