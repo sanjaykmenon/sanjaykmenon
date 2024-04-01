@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Data Engineer @ Even
+- 🔭 &nbsp; Data @ Fidelity
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Master's Degree in Systems Engineering
 - 💼 &nbsp; Python ethusiast
@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | SQL | Spark | AWS | Redshift | RDS | S3  | Terraform | Databricks  
+- 💻 &nbsp; Python | PostgreSQL | Spark | AWS |  
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | Postgres
 - 🔧 &nbsp; Visual Studio code | Git
 
 
